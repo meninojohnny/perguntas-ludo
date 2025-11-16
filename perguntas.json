@@ -1,0 +1,553 @@
+[
+  {
+    "pergunta": "Explique a diferença entre hormônios endócrinos, parácrinos, autócrinos.",
+    "alternativa": [],
+    "resposta": "Endócrinos: liberados na corrente sanguínea e atuam à distância. Parácrinos: atuam em células vizinhas. Autócrinos: agem na própria célula que os produz.",
+    "respondida": false
+  },
+  {
+    "pergunta": "Descreva a função do hipotálamo como regulador do sistema endócrino.",
+    "alternativa": [],
+    "resposta": "O hipotálamo produz hormônios liberadores e inibitórios que controlam a hipófise e integra respostas nervosas e hormonais.",
+    "respondida": false
+  },
+  {
+    "pergunta": "Diferencie a hipófise anterior da posterior.",
+    "alternativa": [],
+    "resposta": "Anterior: adeno-hipófise. Posterior: neuro-hipófise.",
+    "respondida": false
+  },
+  {
+    "pergunta": "Caracterize a glândula tireoide e descreva seus hormônios.",
+    "alternativa": [],
+    "resposta": "A tireoide produz T3, T4 e calcitonina.",
+    "respondida": false
+  },
+  {
+    "pergunta": "Descreva a função do pâncreas endócrino.",
+    "alternativa": [],
+    "resposta": "Secreta insulina, glucagon e somatostatina.",
+    "respondida": false
+  },
+  {
+    "pergunta": "Explique a ação da insulina no organismo.",
+    "alternativa": [],
+    "resposta": "Facilita a entrada de glicose nas células, reduz a glicemia e estimula armazenamento.",
+    "respondida": false
+  },
+  {
+    "pergunta": "O que ocorre quando há produção insuficiente de insulina?",
+    "alternativa": [],
+    "resposta": "Causa hiperglicemia persistente e diabetes mellitus.",
+    "respondida": false
+  },
+  {
+    "pergunta": "Descreva a função das glândulas suprarrenais.",
+    "alternativa": [],
+    "resposta": "Córtex produz cortisol, aldosterona e andrógenos; medula produz adrenalina e noradrenalina.",
+    "respondida": false
+  },
+  {
+    "pergunta": "Diferencie a medula da córtex da suprarrenal.",
+    "alternativa": [],
+    "resposta": "Córtex produz esteroides; medula produz catecolaminas.",
+    "respondida": false
+  },
+  {
+    "pergunta": "Explique os efeitos de T3 e T4 no metabolismo.",
+    "alternativa": [],
+    "resposta": "Aumentam o metabolismo basal e o consumo de oxigênio.",
+    "respondida": false
+  },
+  {
+    "pergunta": "Explique o papel da ocitocina no parto e na amamentação.",
+    "alternativa": [],
+    "resposta": "Induz contrações uterinas e promove a ejeção do leite.",
+    "respondida": false
+  },
+  {
+    "pergunta": "O que são receptores hormonais e por que são essenciais?",
+    "alternativa": [],
+    "resposta": "São proteínas que reconhecem hormônios e permitem sua ação.",
+    "respondida": false
+  },
+  {
+    "pergunta": "Compare o sistema endócrino com o sistema nervoso quanto à velocidade e duração das respostas.",
+    "alternativa": [],
+    "resposta": "Endócrino é lento e duradouro; nervoso é rápido e curto.",
+    "respondida": false
+  },
+  {
+    "pergunta": "O sistema endócrino é composto por:",
+    "alternativa": [
+      "Glândulas que secretam hormônios diretamente no sangue",
+      "Glândulas que secretam enzimas digestivas",
+      "Órgãos exclusivamente nervosos",
+      "Tecidos exclusivamente musculares"
+    ],
+    "resposta": "Glândulas que secretam hormônios diretamente no sangue",
+    "respondida": false
+  },
+  {
+    "pergunta": "Hormônios são:",
+    "alternativa": [
+      "Proteínas estruturais",
+      "Moléculas mensageiras químicas",
+      "Vitaminas essenciais",
+      "Minerais reguladores"
+    ],
+    "resposta": "Moléculas mensageiras químicas",
+    "respondida": false
+  },
+  {
+    "pergunta": "A maioria dos hormônios é transportada pelo:",
+    "alternativa": [
+      "Sistema linfático",
+      "Sistema circulatório",
+      "Sistema respiratório",
+      "Sistema renal"
+    ],
+    "resposta": "Sistema circulatório",
+    "respondida": false
+  },
+  {
+    "pergunta": "Feedback negativo ocorre quando:",
+    "alternativa": [
+      "O estímulo aumenta continuamente",
+      "A resposta reduz o estímulo inicial",
+      "A resposta amplifica o estímulo",
+      "Não há alteração"
+    ],
+    "resposta": "A resposta reduz o estímulo inicial",
+    "respondida": false
+  },
+  {
+    "pergunta": "Hormônio que age por feedback positivo:",
+    "alternativa": [
+      "Insulina",
+      "Adrenalina",
+      "Ocitocina",
+      "T3"
+    ],
+    "resposta": "Ocitocina",
+    "respondida": false
+  },
+  {
+    "pergunta": "O hipotálamo controla a hipófise por meio de:",
+    "alternativa": [
+      "Hormônios liberadores e inibitórios",
+      "Impulsos musculares",
+      "Reflexos",
+      "Vitaminas"
+    ],
+    "resposta": "Hormônios liberadores e inibitórios",
+    "respondida": false
+  },
+  {
+    "pergunta": "A hipófise está localizada:",
+    "alternativa": [
+      "No timo",
+      "Na base do encéfalo",
+      "No fígado",
+      "Nos rins"
+    ],
+    "resposta": "Na base do encéfalo",
+    "respondida": false
+  },
+  {
+    "pergunta": "A hipófise anterior secreta:",
+    "alternativa": [
+      "ADH e ocitocina",
+      "GH, TSH, ACTH, FSH, LH e PRL",
+      "Insulina e glucagon",
+      "Melatonina"
+    ],
+    "resposta": "GH, TSH, ACTH, FSH, LH e PRL",
+    "respondida": false
+  },
+  {
+    "pergunta": "A hipófise posterior libera:",
+    "alternativa": [
+      "TSH e FSH",
+      "Cortisol e adrenalina",
+      "ADH e ocitocina",
+      "GH e LH"
+    ],
+    "resposta": "ADH e ocitocina",
+    "respondida": false
+  },
+  {
+    "pergunta": "GH está relacionado a:",
+    "alternativa": [
+      "Contração muscular",
+      "Aumento da glicemia",
+      "Crescimento corporal",
+      "Ritmo circadiano"
+    ],
+    "resposta": "Crescimento corporal",
+    "respondida": false
+  },
+  {
+    "pergunta": "A tireoide produz:",
+    "alternativa": [
+      "Insulina",
+      "T3, T4 e calcitonina",
+      "Cortisol",
+      "Adrenalina"
+    ],
+    "resposta": "T3, T4 e calcitonina",
+    "respondida": false
+  },
+  {
+    "pergunta": "T3 e T4 atuam no:",
+    "alternativa": [
+      "Metabolismo basal",
+      "Sono",
+      "Respiração",
+      "Reflexo pupilar"
+    ],
+    "resposta": "Metabolismo basal",
+    "respondida": false
+  },
+  {
+    "pergunta": "A calcitonina:",
+    "alternativa": [
+      "Aumenta cálcio",
+      "Diminui cálcio",
+      "Eleva glicose",
+      "Ativa hipófise"
+    ],
+    "resposta": "Diminui cálcio",
+    "respondida": false
+  },
+  {
+    "pergunta": "O PTH:",
+    "alternativa": [
+      "Reduz cálcio",
+      "Aumenta cálcio",
+      "Diminui glicose",
+      "Aumenta adrenalina"
+    ],
+    "resposta": "Aumenta cálcio",
+    "respondida": false
+  },
+  {
+    "pergunta": "Insulina é produzida pelas células:",
+    "alternativa": [
+      "Alfa",
+      "Beta",
+      "Delta",
+      "PP"
+    ],
+    "resposta": "Beta",
+    "respondida": false
+  },
+  {
+    "pergunta": "O glucagon aumenta:",
+    "alternativa": [
+      "Armazenamento de glicose",
+      "A glicemia",
+      "Produção de melatonina",
+      "Hormônios tireoidianos"
+    ],
+    "resposta": "A glicemia",
+    "respondida": false
+  },
+  {
+    "pergunta": "Falta de insulina causa:",
+    "alternativa": [
+      "Hipotireoidismo",
+      "Diabetes mellitus",
+      "Hipoglicemia",
+      "Hipertermia"
+    ],
+    "resposta": "Diabetes mellitus",
+    "respondida": false
+  },
+  {
+    "pergunta": "O pâncreas é:",
+    "alternativa": [
+      "Somente endócrino",
+      "Somente exócrino",
+      "Endócrino e exócrino",
+      "Paracrino"
+    ],
+    "resposta": "Endócrino e exócrino",
+    "respondida": false
+  },
+  {
+    "pergunta": "Suprarrenais ficam:",
+    "alternativa": [
+      "No fígado",
+      "Sobre os rins",
+      "Estômago",
+      "Timo"
+    ],
+    "resposta": "Sobre os rins",
+    "respondida": false
+  },
+  {
+    "pergunta": "Aldosterona atua nos:",
+    "alternativa": [
+      "Pulmões",
+      "Rins",
+      "Intestinos",
+      "Músculos"
+    ],
+    "resposta": "Rins",
+    "respondida": false
+  },
+  {
+    "pergunta": "Cortisol é:",
+    "alternativa": [
+      "Anabólico",
+      "Catabólico",
+      "Nervoso",
+      "Digestivo"
+    ],
+    "resposta": "Catabólico",
+    "respondida": false
+  },
+  {
+    "pergunta": "“Luta ou fuga” envolve:",
+    "alternativa": [
+      "Glucagon",
+      "Adrenalina",
+      "Melatonina",
+      "PTH"
+    ],
+    "resposta": "Adrenalina",
+    "respondida": false
+  },
+  {
+    "pergunta": "LH na mulher estimula:",
+    "alternativa": [
+      "Ovulação",
+      "Produção de leite",
+      "Contração uterina",
+      "Baixar glicemia"
+    ],
+    "resposta": "Ovulação",
+    "respondida": false
+  },
+  {
+    "pergunta": "O FSH estimula:",
+    "alternativa": [
+      "Tireoide",
+      "Crescimento folicular",
+      "Pâncreas",
+      "Adrenalina"
+    ],
+    "resposta": "Crescimento folicular",
+    "respondida": false
+  },
+  {
+    "pergunta": "Testosterona é produzida nas:",
+    "alternativa": [
+      "Granulosa",
+      "Células de Leydig",
+      "Paratireoides",
+      "Células β"
+    ],
+    "resposta": "Células de Leydig",
+    "respondida": false
+  },
+  {
+    "pergunta": "Estrogênio atua no:",
+    "alternativa": [
+      "Músculo",
+      "Desenvolvimento feminino",
+      "Tireoide",
+      "Adrenalina"
+    ],
+    "resposta": "Desenvolvimento feminino",
+    "respondida": false
+  },
+  {
+    "pergunta": "Progesterona:",
+    "alternativa": [
+      "Estimula ovulação",
+      "Prepara o útero para gravidez",
+      "Regula tireoide",
+      "Produz cortisol"
+    ],
+    "resposta": "Prepara o útero para gravidez",
+    "respondida": false
+  },
+  {
+    "pergunta": "Melatonina é da:",
+    "alternativa": [
+      "Hipófise",
+      "Tireoide",
+      "Pineal",
+      "Suprarrenal"
+    ],
+    "resposta": "Pineal",
+    "respondida": false
+  },
+  {
+    "pergunta": "O timo atua mais na:",
+    "alternativa": [
+      "Infância",
+      "Velhice",
+      "Digestão",
+      "Glicemia"
+    ],
+    "resposta": "Infância",
+    "respondida": false
+  },
+  {
+    "pergunta": "ADH atua nos:",
+    "alternativa": [
+      "Pulmões",
+      "Rins",
+      "Músculos",
+      "Neurônios"
+    ],
+    "resposta": "Rins",
+    "respondida": false
+  },
+  {
+    "pergunta": "Falta de ADH causa:",
+    "alternativa": [
+      "Diabetes insipidus",
+      "Hipertireoidismo",
+      "Hiperglicemia",
+      "Hipotermia"
+    ],
+    "resposta": "Diabetes insipidus",
+    "respondida": false
+  },
+  {
+    "pergunta": "Ocitocina relaciona-se a:",
+    "alternativa": [
+      "Alta FC",
+      "Contrações uterinas",
+      "Metabolismo baixo",
+      "Cálcio alto"
+    ],
+    "resposta": "Contrações uterinas",
+    "respondida": false
+  },
+  {
+    "pergunta": "Esteroides vêm do:",
+    "alternativa": [
+      "Proteínas",
+      "Colesterol",
+      "Água",
+      "Ferro"
+    ],
+    "resposta": "Colesterol",
+    "respondida": false
+  },
+  {
+    "pergunta": "TSH estimula:",
+    "alternativa": [
+      "Pâncreas",
+      "Tireoide",
+      "Suprarrenal",
+      "Ovários"
+    ],
+    "resposta": "Tireoide",
+    "respondida": false
+  },
+  {
+    "pergunta": "ACTH estimula:",
+    "alternativa": [
+      "Medula óssea",
+      "Córtex da suprarrenal",
+      "Pâncreas",
+      "Timo"
+    ],
+    "resposta": "Córtex da suprarrenal",
+    "respondida": false
+  },
+  {
+    "pergunta": "Tireoide é estimulada por:",
+    "alternativa": [
+      "FSH",
+      "LH",
+      "TSH",
+      "GH"
+    ],
+    "resposta": "TSH",
+    "respondida": false
+  },
+  {
+    "pergunta": "A glândula mestra é:",
+    "alternativa": [
+      "Pâncreas",
+      "Hipófise",
+      "Ovário",
+      "Suprarrenal"
+    ],
+    "resposta": "Hipófise",
+    "respondida": false
+  },
+  {
+    "pergunta": "Aumenta glicemia:",
+    "alternativa": [
+      "Insulina",
+      "Glucagon",
+      "ADH",
+      "Calcitonina"
+    ],
+    "resposta": "Glucagon",
+    "respondida": false
+  },
+  {
+    "pergunta": "A paratireoide regula:",
+    "alternativa": [
+      "Metabolismo",
+      "Cálcio",
+      "Sono",
+      "Estresse"
+    ],
+    "resposta": "Cálcio",
+    "respondida": false
+  },
+  {
+    "pergunta": "Ejeção do leite depende de:",
+    "alternativa": [
+      "Prolactina",
+      "Ocitocina",
+      "GH",
+      "LH"
+    ],
+    "resposta": "Ocitocina",
+    "respondida": false
+  },
+  {
+    "pergunta": "Prolactina estimula:",
+    "alternativa": [
+      "Ossos",
+      "Produção de leite",
+      "Pressão",
+      "Diminuição de cortisol"
+    ],
+    "resposta": "Produção de leite",
+    "respondida": false
+  },
+  {
+    "pergunta": "O cortisol aumenta:",
+    "alternativa": [
+      "Resistência ao estresse",
+      "Sensibilidade à insulina",
+      "Sono",
+      "Iodo"
+    ],
+    "resposta": "Resistência ao estresse",
+    "respondida": false
+  },
+  {
+    "pergunta": "Hormônio que retém água:",
+    "alternativa": [
+      "Insulina",
+      "ADH",
+      "GH",
+      "T3"
+    ],
+    "resposta": "ADH",
+    "respondida": false
+  }
+]
