@@ -1,5 +1,7 @@
-import { findPerguntas, updatePergunta, addPergunta, removerPergunta } from './service.js';
+import { findPerguntas, addPergunta, removerPergunta } from './service.js';
 
+var perguntas = await findPerguntas();
+adicionarAppBar();
 mostrarMain();
 
 function mostrarMain() {
@@ -12,28 +14,16 @@ function hiddeMain() {
     document.querySelector(".loading").style.display = "flex";
 }
 
-window.reiniciarJogo = async function () {
-    hiddeMain();
-    var perguntas = await findPerguntas();
-
-    for (const p of perguntas) {
-        if (p.respondida) {
-            const pergunta = {
-                pergunta: p.pergunta,
-                resposta: p.resposta,
-                alternativas: p.alternativas,
-                respondida: false
-            };
-
-            await updatePergunta(p.id, pergunta);
-        }
-    }
-    window.location.href = "jogo.html";
+function adicionarAppBar() {
+    const textAppBar = document.querySelector(".app-bar");
+    textAppBar.innerHTML = `<a class="btn-back-app-bar" href="inicial.html"></a>
+                            <span class="text-app-bar">Resetar Manual</span>
+                            <a class="btn-app-bar" href="inicial.html"><i class="fa-solid fa-house"></i></a>`;
 }
 
 window.resetarPerguntas = async function () {
-    console.log("Entrou aqui")
-    var perguntas = await findPerguntas();
+
+    hiddeMain();
 
     for (const p of perguntas) {
         await removerPergunta(p.id);
@@ -57,9 +47,8 @@ window.resetarPerguntas = async function () {
         window.location.href = "inicial.html";
 
     } catch (err) {
+        mostrarMain();
         console.error('Erro ao carregar o JSON', err);
     }
 
 }
-
-console.log("Carregou")

@@ -56,25 +56,6 @@ async function adicionarPergunta() {
     await addPergunta(pergunta);
 }
 
-async function teste() {
-    try {
-        const response = await fetch('./perguntas.json');
-        const dados = await response.json();
 
-        for (const p of dados) {
-            const pergunta = {
-                pergunta: p.pergunta,
-                resposta: p.resposta,
-                alternativas: p.alternativa,
-                respondida: false
-            };
-
-            await addPergunta(pergunta);
-        }
-
-    } catch (err) {
-        console.error('Erro ao carregar o JSON', err);
-    }
-}
 
 init();
